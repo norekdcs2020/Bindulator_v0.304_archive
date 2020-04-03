@@ -52,4 +52,4 @@ v0.3 - initial version of the Bindulator that was made public.
 <BR>
        
 ## Known bugs
-1) Only one color available (other than black) while using button modifiers - cannot change font color in PDF-Xchange Editor by keyboard shortcut.
+1) Only one color available (other than black) while using button modifiers - cannot change font colour in PDF-Xchange Editor by keyboard shortcut.
