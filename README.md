@@ -16,14 +16,12 @@ All rights to the Bindulator are reserved by 'norekdcs2020' (GPLv2). I do not co
 Also, taking my friends' suggestions' into consideration, here is a link if you would like to support my work:
 ## **LINK**
 
-- ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) `#f03c15`
-
 
 ## Features & limitations
 - Support to visualize binds of up to two Controllers per a Template,
 - Binding only one function to a button is accepted + modifier 1 + modifier 2,
-- **TODO** Marking duplicate button binds in red on worksheet,
-- These are <b style='color:red'>red words</b>.
+- **TODO** Marking duplicate button binds in red on **ORANGE** worksheet,
+
 
 ## Changelog
 v0.3 - initial version of the Bindulator that was made public.
