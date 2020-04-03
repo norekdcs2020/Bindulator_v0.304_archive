@@ -6,7 +6,7 @@
        </a>
 </p>
 
-This is an MS Excel based tool for Digital Combat Simulator (DCS) keybind visualization. The tool uses a mix of Excel, PowerQuery and VBA actions, macros and scripts and works together with a free PFD editor - at the moment **it has been tested and confirmed to work only with PDF-Xchange ® Editor Version 8.0 compilation 336 Portable.** 
+This is an MS Excel based tool for Digital Combat Simulator (DCS) keybind visualization. The tool uses a mix of Excel, PowerQuery and VBA actions, macros and scripts and works together with a free PDF editor. At the moment **it has been tested and confirmed to work only with <a href = https://www.tracker-software.com/product/pdf-xchange-editor> PDF-Xchange ® Editor </a> Version 8.0 compilation 336 Portable.**  
 
 I have never found any tool of such kind on the web so I made one for myself and my friends. Supposing it could also make the DCS World community happier, I have decided to make it public. I'm not a proffesional programmer so please bear that in mind. 
 
