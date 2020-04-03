@@ -13,5 +13,5 @@ I have never found any tool for DCS World bind visualization so I made one for m
 All rights to the tool are reserved by 'norekdcs2020' (GPLv2). I do not consent to any paid or commercial use of the tool. Contact me via the ED forum thread via link:
 ## **LINK**
 
-Also, taking my friends' suggestions' into consideration, here is a link to support my work:
+Also, taking my friends' suggestions' into consideration, here is a link if you would like to support my work:
 ## **LINK**
