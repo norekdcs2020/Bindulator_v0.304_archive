@@ -21,12 +21,12 @@ Also, taking my friends' suggestions' into consideration, here is a link if you 
 <BR>
        
 ## Features & limitations
-`Whole workbook:`
+### Whole workbook:
 - Visualize any DCS World airplane binds - on PDF and on kneeboard (VR tested!),
 - Support to visualize binds of up to two Controllers per a Template,
 - Binding only one function to a button is accepted + modifier 1 + modifier 2,
 
-`ORANGE` worksheet:
+### ORANGE worksheet:
 - **TODO** Marking duplicate button binds in red,
 - (Advanced) After initialisation you can edit the names of functions before the PDF creation to suit your needs,
 
