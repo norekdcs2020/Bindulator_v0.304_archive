@@ -25,6 +25,7 @@ Also, taking my friends' suggestions' into consideration, here is a link if you 
 - Visualize any DCS World airplane binds - on PDF and on kneeboard (VR tested!),
 - Support to visualize binds of up to two Controllers per a Template,
 - Binding only one function to a button is accepted + modifier 1 + modifier 2,
+- Remember it's just an amateur MS Excel file - please be patient and restart if necessary,
 
 ### ORANGE worksheet:
 - **TODO** Marking duplicate button binds in red,
