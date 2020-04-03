@@ -31,8 +31,13 @@ Also, taking my friends' suggestions' into consideration, here is a link if you 
 <BR>
        
 ## How to use
-- **TODO** youtube video
-- 
+- **TODO** Check the brief <a href="LINK DO FILMU">youtube video</a> OR:
+- Export DCS airplane binds via the "HTML Export" (fortunately, at the moment, it is one click per airplane),
+- Open Bindulator,
+- Choose your controller setup and airplane type via drop down lists at No. 1,
+- Choose the exported DCS HTML files for controller 1 and controller 2 at. No. 2 and No. 3 accordingly,
+- Press the **Initialise data** button at No. 4,
+- Now you have imported your data to the YELLOW (raw import data) and ORANGE (processed import data) worksheets. If you don't like the DCS function names present in ORANGE worksheet, this is the time to change them,
 
 <BR>
        
