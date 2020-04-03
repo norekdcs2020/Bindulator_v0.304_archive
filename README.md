@@ -11,9 +11,11 @@ After countless binding, rebinding and unbinding binds in DCS World (+formats +u
 Bindulator is a MS Excel based tool for Digital Combat Simulator (DCS) keybind visualization. The Bindulator uses a mix of Excel, PowerQuery and VBA actions, macros and scripts and works together with a free PDF editor. At the moment **it has been tested and confirmed to work only with <a href = https://www.tracker-software.com/product/pdf-xchange-editor> PDF-Xchange® Editor </a> Version 8.0 compilation 336 Portable** (download free __"Editor Portable Version"__ and proceed accordingly to the program license). The Bindulator could use any other free PDF editor but it needs to be modified in such manner.
 
 All rights to the Bindulator are reserved by 'norekdcs2020' (GPLv2). I do not consent to any paid or commercial use of the Bindulator. Contact me via the ED forum thread via link:
+
 <a href="LINK DO WATKU NA FORUM ED">LINK DO WATKU NA FORUM ED</a> 
 
 Also, taking my friends' suggestions' into consideration, here is a link if you would like to support my work:
+
 <a href="LINK DO PAYPALA">LINK DO PAYPALA</a> 
 
 <BR>
