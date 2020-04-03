@@ -15,3 +15,9 @@ All rights to the tool are reserved by 'norekdcs2020' (GPLv2). I do not consent 
 
 Also, taking my friends' suggestions' into consideration, here is a link if you would like to support my work:
 ## **LINK**
+
+## Changelog
+V0.3 - initial version made public
+
+## Known bugs
+1) Only one color (other than black) while using button modifiers - cannot change font color in PDF-Xchange Editor by keyboard shortcut.
