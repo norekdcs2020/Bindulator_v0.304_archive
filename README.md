@@ -17,7 +17,6 @@ Also, taking my friends' suggestions' into consideration, here is a link if you 
 ## **LINK**
 
 <BR>
-<BR>
        
 ## Features & limitations
 - Support to visualize binds of up to two Controllers per a Template,
