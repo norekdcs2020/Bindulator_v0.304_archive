@@ -16,7 +16,7 @@ All rights to the Bindulator are reserved by 'norekdcs2020' (GPLv2). I do not co
 Also, taking my friends' suggestions' into consideration, here is a link if you would like to support my work:
 ## **LINK**
 
-
+- ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) `#f03c15`
 
 
 ## Features & limitations
