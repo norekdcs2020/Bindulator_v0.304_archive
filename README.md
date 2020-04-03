@@ -8,7 +8,7 @@
 
 Bindulator is a MS Excel based tool for Digital Combat Simulator (DCS) keybind visualization. The Bindulator uses a mix of Excel, PowerQuery and VBA actions, macros and scripts and works together with a free PDF editor. At the moment **it has been tested and confirmed to work only with <a href = https://www.tracker-software.com/product/pdf-xchange-editor> PDF-Xchange® Editor </a> Version 8.0 compilation 336 Portable** (download free __"Editor Portable Version"__ and proceed accordingly to the program license). The Bindulator could use any other free PDF editor but it needs to be modified in such manner.
 
-I have never found any tool for DCS World bind visualization so I made one for myself and my friends. Supposing it could also make some of the DCS World community happier, I have decided to make it public. I'm not a proffesional programmer so please bear that in mind. If my effort inspire you to make a better, standalone program that doesn't need DCS exports, MS Excel and PDF editor - I'm already a fan of your work!
+I have never found any tool for DCS World bind visualization so I made one for myself and my friends. Supposing it could also make some of the DCS World community happier, I have decided to make it public. I am not a proffesional programmer so please bear that in mind. If my effort inspire you to make a better, standalone program that does not need DCS HTML exports, MS Excel, PDF editor - I am already a fan of your work!
 
 All rights to the Bindulator are reserved by 'norekdcs2020' (GPLv2). I do not consent to any paid or commercial use of the Bindulator. Contact me via the ED forum thread via link:
 ## **LINK**
