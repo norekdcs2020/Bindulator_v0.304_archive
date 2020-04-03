@@ -18,7 +18,6 @@ Also, taking my friends' suggestions' into consideration, here is a link if you 
 
 <BR>
 <BR>
-<BR>
        
 ## Features & limitations
 - Support to visualize binds of up to two Controllers per a Template,
@@ -28,8 +27,10 @@ Also, taking my friends' suggestions' into consideration, here is a link if you 
 - **TODO** Marking duplicate button binds in red,
 - (Advanced) After initialisation you can edit the names of functions before the PDF creation to suit your needs,
 
+<BR>
 ## Changelog
 v0.3 - initial version of the Bindulator that was made public.
 
+<BR>
 ## Known bugs
 1) Only one color available (other than black) while using button modifiers - cannot change font color in PDF-Xchange Editor by keyboard shortcut.
