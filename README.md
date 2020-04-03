@@ -16,8 +16,17 @@ All rights to the Bindulator are reserved by 'norekdcs2020' (GPLv2). I do not co
 Also, taking my friends' suggestions' into consideration, here is a link if you would like to support my work:
 ## **LINK**
 
+
+
+
+## Features & limitations
+- Support to visualize binds of up to two Controllers per a Template,
+- Binding only one function to a button is accepted + modifier 1 + modifier 2,
+- **TODO** Marking duplicate button binds in red on ```diff !ORANGE ``` worksheet,
+-
+
 ## Changelog
-V0.3 - initial version made public
+v0.3 - initial version of the Bindulator that was made public.
 
 ## Known bugs
 1) Only one color available (other than black) while using button modifiers - cannot change font color in PDF-Xchange Editor by keyboard shortcut.
