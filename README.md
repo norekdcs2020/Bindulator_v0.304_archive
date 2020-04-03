@@ -21,12 +21,12 @@ Also, taking my friends' suggestions' into consideration, here is a link if you 
 <BR>
        
 ## Features & limitations
-**Whole workbook:**
+`Whole workbook:`
 - Visualize any DCS World airplane binds - on PDF and on kneeboard (VR tested!),
 - Support to visualize binds of up to two Controllers per a Template,
 - Binding only one function to a button is accepted + modifier 1 + modifier 2,
 
-`**ORANGE**` worksheet:
+`ORANGE` worksheet:
 - **TODO** Marking duplicate button binds in red,
 - (Advanced) After initialisation you can edit the names of functions before the PDF creation to suit your needs,
 
@@ -37,11 +37,11 @@ Also, taking my friends' suggestions' into consideration, here is a link if you 
 
 OR:
 - Export DCS airplane binds via the "HTML Export" (fortunately, at the moment, it is one click per airplane),
-- Open Bindulator,
+- Open Bindulator. The **GREEN** worksheet should appear.
 - Choose your controller setup and airplane type via drop down lists at No. 1,
 - Choose the exported DCS HTML files for controller 1 and controller 2 at. No. 2 and No. 3 accordingly,
 - Press the **Initialise data** button at No. 4,
-- Now you have imported your data to the YELLOW (raw import data) and ORANGE (processed import data) worksheets. If you don't like the DCS function names present in ORANGE worksheet, this is the time to change them at `Funkcja` field (the `Kategoria funkcji` is only a helper column),
+- Now you have imported your data to the **YELLOW** (raw import data) and **ORANGE** (processed import data) worksheets. If you don't like the DCS function names present in ORANGE worksheet, this is the time to change them at `Funkcja` field (the `Kategoria funkcji` is only a helper column),
 
 <BR>
        
