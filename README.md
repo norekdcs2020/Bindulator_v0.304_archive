@@ -16,7 +16,10 @@ All rights to the Bindulator are reserved by 'norekdcs2020' (GPLv2). I do not co
 Also, taking my friends' suggestions' into consideration, here is a link if you would like to support my work:
 ## **LINK**
 
-
+<BR>
+<BR>
+<BR>
+       
 ## Features & limitations
 - Support to visualize binds of up to two Controllers per a Template,
 - Binding only one function to a button is accepted + modifier 1 + modifier 2,
@@ -24,16 +27,6 @@ Also, taking my friends' suggestions' into consideration, here is a link if you 
 **ORANGE** worksheet:
 - **TODO** Marking duplicate button binds in red,
 - (Advanced) After initialisation you can edit the names of functions before the PDF creation to suit your needs,
-
-
-
-
-
-
-
-
-
-
 
 ## Changelog
 v0.3 - initial version of the Bindulator that was made public.
