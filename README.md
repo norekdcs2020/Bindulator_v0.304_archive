@@ -26,6 +26,15 @@ Also, taking my friends' suggestions' into consideration, here is a link if you 
 - (Advanced) After initialisation you can edit the names of functions before the PDF creation to suit your needs,
 
 
+
+
+
+
+
+
+
+
+
 ## Changelog
 v0.3 - initial version of the Bindulator that was made public.
 
