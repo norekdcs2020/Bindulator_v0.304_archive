@@ -34,6 +34,7 @@ Also, taking my friends' suggestions' into consideration, here is a link if you 
        
 ## How to use
 - **TODO** Check the brief tutorial video <a href="LINK DO FILMU YOUTUBE">LINK DO FILMU YOUTUBE</a> 
+
 OR:
 - Export DCS airplane binds via the "HTML Export" (fortunately, at the moment, it is one click per airplane),
 - Open Bindulator,
