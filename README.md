@@ -10,8 +10,8 @@ This is an MS Excel based tool for Digital Combat Simulator (DCS) keybind visual
 
 I have never found any tool of such kind on the web so I made one for myself and my friends. Supposing it could also make some of the DCS World community happier, I have decided to make it public. I'm not a proffesional programmer so please bear that in mind. If my effort inspire you to make a better, standalone program that doesn't need DCS exports, MS Excel and PDF editor - I'm already a fan of your work!
 
-Taking my friends' suggestions' into consideration, here is a link to support my work:
+All rights to the tool are reserved by 'norekdcs2020' (GPLv2). I do not consent to any paid or commercial use of the tool. Contact me via the ED forum thread via link:
 ## **LINK**
 
-All rights to the tool are reserved by 'norekdcs2020' (GPLv2). I do not consent to any paid or commercial use of the tool. Contact me via the ED forum thread via link:
+Also, taking my friends' suggestions' into consideration, here is a link to support my work:
 ## **LINK**
