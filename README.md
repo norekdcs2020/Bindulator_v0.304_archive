@@ -3,8 +3,9 @@
 ## **LINK**
 
 <p align="center">
-       <a href="https://github.com/ArmaForces/Mods/blob/master/LICENSE">
-       <img src="https://img.shields.io/badge/License-GPLv2-red.svg" alt="ArmaForces Mods License">
+       <a href="https://github.com/norekdcs2020/Bindulator/blob/master/LICENSE">
+       <img src="https://img.shields.io/badge/License-GPLv2-red.svg" alt="Bindulator License">
+       </a>
 </p>
 
 This is an MS Excel based tool for Digital Combat Simulator (DCS) keybind visualization. The tool uses a mix of Excel, PowerQuery and VBA actions, macros and scripts and works together with a free PFD editor - at the moment **it has been tested and confirmed to work only with PDF-Xchange ® Editor Version 8.0 compilation 336 Portable.** 
