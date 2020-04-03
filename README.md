@@ -22,8 +22,8 @@ Also, taking my friends' suggestions' into consideration, here is a link if you 
 ## Features & limitations
 - Support to visualize binds of up to two Controllers per a Template,
 - Binding only one function to a button is accepted + modifier 1 + modifier 2,
-- **TODO** Marking duplicate button binds in red on ```diff ! ORANGE ``` worksheet,
--
+- **TODO** Marking duplicate button binds in red on worksheet,
+- These are <b style='color:red'>red words</b>.
 
 ## Changelog
 v0.3 - initial version of the Bindulator that was made public.
