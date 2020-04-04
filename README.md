@@ -38,16 +38,25 @@ Also, taking my friends' suggestions' into consideration, here is a link if you 
 - **TODO** Check the brief tutorial video <a href="LINK DO FILMU YOUTUBE">LINK DO FILMU YOUTUBE</a> 
 
 OR:
+###PDF bind visualization creation
 - Export DCS airplane binds via the "HTML Export" (fortunately, at the moment, it is one click per airplane),
 - Open Bindulator. The **GREEN** worksheet should appear.
 - Choose your controller setup and airplane type via drop down lists at No. 1,
 - Choose the exported DCS HTML files for controller 1 and controller 2 (if you need a controller 2 on the same Template) at. No. 2 and No. 3 with according buttons. The paths to the HTML files will appear in the `F` column,
 - Press the **Initialise data** button at No. 4,
 - Now you have imported your data to the **YELLOW** (raw import data) and **ORANGE** (processed import data) worksheets. If you don't like the DCS function names present in **ORANGE** worksheet, this is the time to change them at `Funkcja` field (the `Kategoria funkcji` is only a helper column),
-- Choose your Template at No. 5 button. The path to the Template will appear in the `F` column,
+- Choose your **compatible** Template at No. 5 button. The path to the Template will appear in the `F` column,
 - Choose the folder for saving bind visualization PDF files at No. 6 button. The path to the folder will appear in the `F` column,
 - Point to the .exe file of your PDF editor at No. 7 button. The path to the .exe file will appear in the `F` column,
-- **WARNING! AFTER YOU PRESS THE NO. 8 BUTTON DO NOT TOUCH THE MOUSE, NOR THE KEYBOARD - UNLESS PROMPTED ON THE SCREEN. IF YOU ACCIDENTALLY CHANGE THE FOCUS OF ACTIVE WINDOW, BAD THINGS COULD HAPPEN
+- **WARNING! AFTER YOU PRESS THE NO. 8 BUTTON DO NOT TOUCH THE MOUSE, NOR THE KEYBOARD - UNLESS PROMPTED ON THE SCREEN. IF YOU CHANGE THE FOCUS OF ACTIVE WINDOW, BAD THINGS COULD HAPPEN. USE AT YOUR OWN RISK.**
+- Press the No. 8 button and watch how the Bindulator does the job,
+Now you can either use the PDF created (if something is wrong, you can correct it now manually) or go further and export the file as a kneeboard in DCS,
+
+###Kneeboard export from PDF files
+- Check if the path to you newly created PDF file at No. 9 in the `F` column is correct. 
+
+
+
 <BR>
        
 ## Changelog
