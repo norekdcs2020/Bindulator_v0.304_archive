@@ -9,12 +9,6 @@
 After countless binding, rebinding and unbinding binds in DCS World (+formats +uninstalls +DCS bind bugs) I lost track what function on which airplane is bound on which button of my controllers. Unfortunately I have never found any tool for DCS World bind visualization (nor PDF nor kneeboard) so I made one for myself and my friends. Supposing it could also make some of the DCS World community happier, I have decided to make it public. I am not a proffesional programmer so please bear that in mind. If my effort inspire you to make a better, standalone program that does not need DCS HTML exports, MS Excel, PDF editor - I am already a fan of your work!
 
 Bindulator is a MS Excel based tool for Digital Combat Simulator (DCS) keybind visualization. The Bindulator uses a mix of Excel, PowerQuery and VBA actions, macros and scripts and works together with a free PDF editor. 
-## Compatibility
-The Bindulator has been checked to work in this software configuration:
-- At the moment it has been tested and confirmed to work only with <a href = https://www.tracker-software.com/product/pdf-xchange-editor> PDF-Xchange® Editor </a> Version 8.0 compilation 336 Portable (download free __"Editor Portable Version"__ and proceed accordingly to the program license). The Bindulator could use any other free PDF editor but it needs to be modified in such manner,
-- DCS OpenBeta 2.5.6.45915
-- MS Windows 10 Pro,
-- MS Office 2019, 
 
 All rights to the Bindulator are reserved by 'norekdcs2020' (GPLv2). I do not consent to any paid or commercial use of the Bindulator. Contact me via the ED forum thread via link:
 
@@ -23,6 +17,12 @@ All rights to the Bindulator are reserved by 'norekdcs2020' (GPLv2). I do not co
 Also, taking my friends' suggestions' into consideration, here is a link if you would like to support my work:
 
 <a href="LINK DO PAYPALA">LINK DO PAYPALA</a> 
+## Compatibility
+The Bindulator has been checked to work in this software configuration:
+- At the moment it has been tested and confirmed to work only with <a href = https://www.tracker-software.com/product/pdf-xchange-editor> PDF-Xchange® Editor </a> Version 8.0 compilation 336 Portable (download free __"Editor Portable Version"__ and proceed accordingly to the program license). The Bindulator could use any other free PDF editor but it needs to be modified in such manner,
+- DCS OpenBeta 2.5.6.45915,
+- MS Windows 10 Pro,
+- MS Office 2019, 
 
 <BR>
        
