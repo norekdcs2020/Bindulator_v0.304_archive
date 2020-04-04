@@ -32,6 +32,17 @@ Also, taking my friends' suggestions' into consideration, here is a link if you 
 - **TODO** Marking duplicate button binds in red,
 - (Advanced) After initialisation you can edit the names of functions before the PDF creation to suit your needs,
 
+### Support for controllers + created templates:
+- Thrustmaster Warthog Stick,
+- Thrustmaster Warthog Throttle,
+- Thrustmaster T16000M,
+- Thrustmaster TWCS,
+- Logitech 3D Pro,
+- Saitek X52 Stick,
+- Saitek X52 Throttle,
+- Saitek X52 Pro Stick,
+- Saitek X52 Pro Throttle,
+
 <BR>
        
 ## How to use
