@@ -26,10 +26,11 @@ Also, taking my friends' suggestions' into consideration, here is a link if you 
 - Support to visualize binds of up to two Controllers per a Template,
 - The Bindulator relies on HTML exports because it was easier for me to make the tool work,
 - Binding only one function to a button is accepted + modifier 1 + modifier 2,
+- Big red/green/yellow text fields giving you feedback about current Bindulator state,
 - Remember it's just an amateur MS Excel file - please be patient and restart if necessary,
 
 ### ORANGE worksheet:
-- **TODO** Marking duplicate button binds in red,
+- Marking duplicate button binds in red,
 - (Advanced) After initialisation you can edit the names of functions before the PDF creation to suit your needs,
 
 ### Support for controllers + created templates:
