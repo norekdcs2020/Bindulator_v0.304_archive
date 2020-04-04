@@ -48,14 +48,20 @@ OR:
 - Choose your **compatible** Template at No. 5 button. The path to the Template will appear in the `F` column,
 - Choose the folder for saving bind visualization PDF files at No. 6 button. The path to the folder will appear in the `F` column,
 - Point to the .exe file of your PDF editor at No. 7 button. The path to the .exe file will appear in the `F` column,
-- **WARNING! AFTER YOU PRESS THE NO. 8 BUTTON DO NOT TOUCH THE MOUSE, NOR THE KEYBOARD - UNLESS PROMPTED ON THE SCREEN. IF YOU CHANGE THE FOCUS OF ACTIVE WINDOW, BAD THINGS COULD HAPPEN. USE AT YOUR OWN RISK.**
+
+**WARNING BEFORE NO. 8! AFTER YOU PRESS THE BUTTON DO NOT TOUCH THE MOUSE, NOR THE KEYBOARD - UNLESS PROMPTED ON THE SCREEN OTHERWISE. IF YOU CHANGE THE FOCUS OF ACTIVE WINDOW, BAD THINGS COULD HAPPEN. USE AT YOUR OWN RISK.**
+
 - Press the No. 8 button and watch how the Bindulator does the job,
-Now you can either use the PDF created (if something is wrong, you can correct it now manually) or go further and export the file as a kneeboard in DCS,
+- Now you can either use the PDF created (if something is wrong, you can correct it now manually) or go further and export the file as a kneeboard in DCS,
 
 ###Kneeboard export from PDF files
-- Check if the path to you newly created PDF file at No. 9 in the `F` column is correct. 
+- Check if the path to your newly created PDF file at No. 9 in the `F` column is correct,
+- Choose the DCS World main kneeboard folder. If the folder `Kneeboard` does not exist in the "/Saved Games/DCS.openbeta/" - create it. After choosing the kneeboard folder with the Bindulator, the path to the folder will appear in the `F` column,
 
+**WARNING BEFORE NO. 11! AFTER YOU PRESS THE BUTTON DO NOT TOUCH THE MOUSE, NOR THE KEYBOARD - UNLESS PROMPTED ON THE SCREEN OTHERWISE. IF YOU CHANGE THE FOCUS OF ACTIVE WINDOW, BAD THINGS COULD HAPPEN. USE AT YOUR OWN RISK.**
 
+- Press the No. 8 button and watch how the Bindulator does the job,
+- Check if everything works in DCS World - do not forget to bind keys for Kneeboard ON/OFF or GLANCE and NEXT/PREVIOUS kneeboard pages. Your kneeboards should appear after pressing the next button a few times.
 
 <BR>
        
