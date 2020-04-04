@@ -34,7 +34,7 @@ The Bindulator has been checked to work in this software configuration:
 ### Whole workbook:
 - Visualize any DCS World airplane binds - on PDF and on kneeboard (VR tested!),
 - Support to visualize binds of up to two Controllers per a Template,
-- The Bindulator relies on HTML exports because it was easier for me to make the tool work,
+- The Bindulator relies on DCS World HTML exports because it was easier for me to make the tool work,
 - Binding only one function to a button is accepted + modifier 1 + modifier 2,
 - Big red/green/yellow text fields giving you feedback about current Bindulator state,
 - Remember it's just an amateur MS Excel file - please be patient and restart if necessary.
