@@ -66,7 +66,7 @@ OR:
 - Open Bindulator. The **GREEN** worksheet should appear.
 - Choose your controller setup and airplane type via drop down lists at No. 1,
 - Choose the exported DCS HTML files for controller 1 and controller 2 (if you need a controller 2 on the same Template) at. No. 2 and No. 3 with according buttons. The paths to the HTML files will appear in the `F` column,
-- Press the **Initialise data** button at No. 4 and wait for start and end prompts,
+- Press the **Initialise data** button at No. 4 and wait for data refresh start and end prompts. If a `DUPLICATES PRESENT` text appears next to No. 4 button, correct your binds.
 - Now you have imported your data to the **YELLOW** (raw import data) and **ORANGE** (processed import data) worksheets. If you don't like the DCS function names present in **ORANGE** worksheet, this is the time to change them at `Funkcja` field (the `Kategoria funkcji` is only a helper column),
 - Choose your **compatible** Template at No. 5 button. The path to the Template will appear in the `F` column,
 - Choose the folder for saving bind visualization PDF files at No. 6 button. The path to the folder will appear in the `F` column,
