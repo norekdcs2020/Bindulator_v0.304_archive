@@ -57,12 +57,12 @@ OR:
 
 ### Kneeboard export from PDF files
 - Check if the path to your newly created PDF file at No. 9 in the `F` column is correct,
-- Choose the DCS World main kneeboard folder. If the folder `Kneeboard` does not exist in the "/Saved Games/DCS.openbeta/" - create it. After choosing the kneeboard folder with the Bindulator, the path to the folder will appear in the `F` column,
+- Choose the DCS World main kneeboard folder at No. 10. If the folder `Kneeboard` does not exist in the "/Saved Games/DCS.openbeta/" - create it. After choosing the kneeboard folder with the Bindulator, the path to the folder will appear in the `F` column,
 
 **WARNING BEFORE NO. 11! AFTER YOU PRESS THE BUTTON DO NOT TOUCH THE MOUSE, NOR THE KEYBOARD - UNLESS PROMPTED ON THE SCREEN OTHERWISE. IF YOU CHANGE THE FOCUS OF ACTIVE WINDOW, BAD THINGS COULD HAPPEN. USE AT YOUR OWN RISK.**
 
-- Press the No. 8 button and watch how the Bindulator does the job,
-- Check if everything works in DCS World - do not forget to bind keys for Kneeboard ON/OFF or GLANCE and NEXT/PREVIOUS kneeboard pages. Your kneeboards should appear after pressing the next button a few times.
+- Press the No. 11 button and watch how the Bindulator does the job,
+- Check if everything works in DCS World. Do not forget to bind keys for Kneeboard ON/OFF or GLANCE and NEXT/PREVIOUS kneeboard pages. Your kneeboards should appear after pressing the NEXT button for a few times.
 
 <BR>
        
