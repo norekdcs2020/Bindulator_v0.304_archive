@@ -38,6 +38,7 @@ Also, taking my friends' suggestions' into consideration, here is a link if you 
 - **TODO** Check the brief tutorial video <a href="LINK DO FILMU YOUTUBE">LINK DO FILMU YOUTUBE</a> 
 
 OR:
+
 ###PDF bind visualization creation
 - Export DCS airplane binds via the "HTML Export" (fortunately, at the moment, it is one click per airplane),
 - Open Bindulator. The **GREEN** worksheet should appear.
