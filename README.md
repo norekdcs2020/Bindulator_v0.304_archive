@@ -17,6 +17,9 @@ All rights to the Bindulator are reserved by 'norekdcs2020' (GPLv2). I do not co
 Also, taking my friends' suggestions' into consideration, here is a link if you would like to support my work:
 
 <a href="LINK DO PAYPALA">LINK DO PAYPALA</a> 
+
+<BR>
+
 ## Compatibility
 The Bindulator has been checked to work in this software configuration:
 - At the moment it has been tested and confirmed to work only with <a href = https://www.tracker-software.com/product/pdf-xchange-editor> PDF-Xchange® Editor </a> Version 8.0 compilation 336 Portable (download free __"Editor Portable Version"__ and proceed accordingly to the program license). The Bindulator could use any other free PDF editor but it needs to be modified in such manner,
