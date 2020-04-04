@@ -24,8 +24,8 @@ Also, taking my friends' suggestions' into consideration, here is a link if you 
 The Bindulator has been checked to work in this software configuration:
 - At the moment it has been tested and confirmed to work only with <a href = https://www.tracker-software.com/product/pdf-xchange-editor> PDF-Xchange® Editor </a> Version 8.0 compilation 336 Portable (download free __"Editor Portable Version"__ and proceed accordingly to the program license). The Bindulator could use any other free PDF editor but it needs to be modified in such manner,
 - DCS OpenBeta 2.5.6.45915,
-- MS Windows 10 Pro,
 - MS Office 2019, 
+- MS Windows 10 Pro,
 
 <BR>
        
