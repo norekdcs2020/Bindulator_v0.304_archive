@@ -39,7 +39,7 @@ Also, taking my friends' suggestions' into consideration, here is a link if you 
 
 OR:
 
-###PDF bind visualization creation
+### PDF bind visualization creation
 - Export DCS airplane binds via the "HTML Export" (fortunately, at the moment, it is one click per airplane),
 - Open Bindulator. The **GREEN** worksheet should appear.
 - Choose your controller setup and airplane type via drop down lists at No. 1,
@@ -55,7 +55,7 @@ OR:
 - Press the No. 8 button and watch how the Bindulator does the job,
 - Now you can either use the PDF created (if something is wrong, you can correct it now manually) or go further and export the file as a kneeboard in DCS,
 
-###Kneeboard export from PDF files
+### Kneeboard export from PDF files
 - Check if the path to your newly created PDF file at No. 9 in the `F` column is correct,
 - Choose the DCS World main kneeboard folder. If the folder `Kneeboard` does not exist in the "/Saved Games/DCS.openbeta/" - create it. After choosing the kneeboard folder with the Bindulator, the path to the folder will appear in the `F` column,
 
