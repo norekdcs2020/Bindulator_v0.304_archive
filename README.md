@@ -41,16 +41,18 @@ The Bindulator has been checked to work in this software configuration:
 - (Advanced) After initialisation you can edit the names of functions before the PDF creation to suit your needs.
 
 ### Support for controllers + created templates:
-- Logitech 3D Pro,
-- Saitek X52 Stick,
-- Saitek X52 Throttle,
-- Saitek X52 Pro Stick,
-- Saitek X52 Pro Throttle,
 - Thrustmaster Warthog Stick,
 - Thrustmaster Warthog Throttle,
-- Thrustmaster T16000M,
-- Thrustmaster TWCS,
-- VPC MongoosT-50CM2.
+**TODO** - Thrustmaster T.16000M Stick,
+- Thrustmaster T.16000M FCS Stick,
+- Thrustmaster TWCS Throttle,
+- Virpil (VPC) MongoosT-50CM2 Stick,
+- Logitech Force 3D Pro Stick,
+- Logitech Extreme 3D Pro Stick,
+**TODO** - Saitek X52 Stick,
+**TODO** - Saitek X52 Throttle,
+**TODO** - Saitek X52 Pro Stick,
+**TODO** - Saitek X52 Pro Throttle.
 
 <BR>
        
