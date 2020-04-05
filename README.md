@@ -37,6 +37,7 @@ The Bindulator has been checked to work in this software configuration:
 - The Bindulator relies on DCS World HTML exports because it was easier for me to make the tool work,
 - Binding only one function to a button is accepted + modifier 1 + modifier 2,
 - Big red/green/yellow text fields giving you feedback about current Bindulator state,
+- DUAL Templates (two controllers on one page) will not be readable in VR (too much stuff going on),
 - Remember it's just an amateur MS Excel file - please be patient and restart if necessary.
 
 ### ORANGE worksheet:
@@ -96,4 +97,5 @@ v0.3 - initial version of the Bindulator that was made public.
        
 ## Known bugs
 1) Only one color available (other than black) while using button modifiers - cannot change font colour in PDF-Xchange Editor by keyboard shortcut,
-2) Sometimes Excel loses focus after the Bindulator initialisation or bind visualization (the icon of background task does not appear) - you just need to press the mouse on the open Excel file.
+2) Sometimes Excel loses focus after the Bindulator initialisation or bind visualization (the icon of background task does not appear) - you just need to press the mouse on the open Excel file,
+3) Often the initialisation process takes some time (~30 s), maybe too much but hey - it works.
