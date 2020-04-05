@@ -55,7 +55,7 @@ The Bindulator has been checked to work in this software configuration:
 - Saitek X52 Stick,
 **TODO** - Saitek X52 Throttle,
 - Saitek X52 Pro Stick,
-= Saitek X52 Pro Throttle.
+- Saitek X52 Pro Throttle.
 
 <BR>
        
