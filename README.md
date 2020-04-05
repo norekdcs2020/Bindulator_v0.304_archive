@@ -96,4 +96,5 @@ v0.3 - initial version of the Bindulator that was made public.
 ## Known bugs
 1) Only one color available (other than black) while using button modifiers - cannot change font colour in PDF-Xchange Editor by keyboard shortcut,
 2) Sometimes Excel loses focus after the Bindulator initialisation or bind visualization (the icon of background task does not appear) - you just need to press the mouse on the open Excel file,
-3) Often the initialisation process takes some time (~30 s), maybe too much but hey - it works.
+3) Often the initialisation process takes some time (~30 s), maybe too much but hey - it works,
+4) There is a chance that you will experience different axis naming - please let me know if you do not have feedback for Z axis (because on my computer it might be RZ axis).
