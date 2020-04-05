@@ -43,7 +43,7 @@ The Bindulator has been checked to work in this software configuration:
 ### Support for controllers + created templates:
 - Thrustmaster Warthog Stick,
 - Thrustmaster Warthog Throttle,
-**TODO** - Thrustmaster T.16000M Stick,
+- Thrustmaster T.16000M Stick,
 - Thrustmaster T.16000M FCS Stick,
 - Thrustmaster TWCS Throttle,
 - Virpil (VPC) MongoosT-50CM2 Stick,
