@@ -85,6 +85,8 @@ OR:
 
 - Press the No. 11 button and watch how the Bindulator does the job,
 - Check if everything works in DCS World. Do not forget to bind keys for Kneeboard ON/OFF or GLANCE and NEXT/PREVIOUS kneeboard pages. Your kneeboards should appear after pressing the NEXT button for a few times.
+- Profit?
+- Repeat previous steps if needed for different controllers and airships.
 
 <BR>
        
