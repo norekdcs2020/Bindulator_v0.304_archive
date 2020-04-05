@@ -73,7 +73,7 @@ OR:
 **WARNING BEFORE NO. 8! AFTER YOU PRESS THE BUTTON DO NOT TOUCH THE MOUSE, NOR THE KEYBOARD - UNLESS PROMPTED ON THE SCREEN OTHERWISE. IF YOU CHANGE THE FOCUS OF ACTIVE WINDOW, BAD THINGS COULD HAPPEN. USE AT YOUR OWN RISK.**
 
 - Press the No. 8 button and watch how the Bindulator does the job,
-- Now you can either use the PDF created (if something is wrong, you can correct it now manually) or go further and export the file as a kneeboard in DCS,
+- Now you can either use the PDF created (if something is wrong or not optimal, you can correct it now manually) or go further and export the file as a kneeboard in DCS,
 
 ### Kneeboard export from PDF files
 - Check if the path to your newly created PDF file at No. 9 in the `F` column is correct,
