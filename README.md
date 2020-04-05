@@ -36,8 +36,11 @@ The Bindulator has been checked to work in this software configuration:
 - DUAL Templates (two controllers on one page) will not be readable in VR (too much stuff going on),
 - Remember it's just an amateur MS Excel file - please be patient and restart if necessary.
 
+### ORANGE and YELLOW worksheets:
+**TODO YELLOW** - Marking in red not supported multiple functions per button binds,
+**TODO** - Marking in violet not supported multiple buttons per function binds,
+
 ### ORANGE worksheet:
-- Marking duplicate button binds in red,
 - (Advanced) After initialisation you can edit the names of functions before the PDF creation to suit your needs.
 
 ### Support for controllers + created templates:
@@ -49,10 +52,10 @@ The Bindulator has been checked to work in this software configuration:
 - Virpil (VPC) MongoosT-50CM2 Stick,
 - Logitech Force 3D Pro Stick,
 - Logitech Extreme 3D Pro Stick,
-**TODO** - Saitek X52 Stick,
+- Saitek X52 Stick,
 **TODO** - Saitek X52 Throttle,
 - Saitek X52 Pro Stick,
-**TODO** - Saitek X52 Pro Throttle.
+= Saitek X52 Pro Throttle.
 
 <BR>
        
