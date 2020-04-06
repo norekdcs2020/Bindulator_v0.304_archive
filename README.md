@@ -105,6 +105,8 @@ v0.3 - initial version of the Bindulator that was made public.
 4) There is a chance that you will experience different axis naming - please let me know if you do not have feedback for Z axis (because on my computer it might be RZ axis),
 5) There might me a problem with different Excel language than Polish - due to obligatory using ";" instead of "," in formulas. Please let me know how it turns out...
 
+<BR>
+     
 ## Credits
 Please let me know if you would like to appear here and why.
 - Person 1,
