@@ -21,8 +21,8 @@ Also, taking my friends' suggestions' into consideration, here is a link if you 
 The Bindulator has been checked to work in this software configuration:
 - At the moment it has been tested and confirmed to work only with <a href = https://www.tracker-software.com/product/pdf-xchange-editor> PDF-Xchange® Editor </a> Version 8.0 compilation 336 Portable (download free __"Editor Portable Version"__ and proceed accordingly to the program license). The Bindulator could use any other free PDF editor but it needs to be modified in such manner,
 - DCS OpenBeta 2.5.6.45915,
-- MS Office 2019, 
-- MS Windows 10 Pro.
+- MS Office 2019 PL (Polish), 
+- MS Windows 10 Pro PL (Polish).
 
 <BR>
        
@@ -102,4 +102,5 @@ v0.3 - initial version of the Bindulator that was made public.
 1) Only one color available (other than black) while using button modifiers - cannot change font colour in PDF-Xchange Editor by keyboard shortcut,
 2) Sometimes Excel loses focus after the Bindulator initialisation or bind visualization (the icon of background task does not appear) - you just need to press the mouse on the open Excel file,
 3) Often the initialisation process takes some time (~30 s), maybe too much but hey - it works,
-4) There is a chance that you will experience different axis naming - please let me know if you do not have feedback for Z axis (because on my computer it might be RZ axis).
+4) There is a chance that you will experience different axis naming - please let me know if you do not have feedback for Z axis (because on my computer it might be RZ axis),
+5) There might me a problem with different Excel language than Polish - due to obligatory using ";" instead of "," in formulas. Please let me know how it turns out...
