@@ -54,10 +54,10 @@ The Bindulator has been checked to work in this software configuration:
 - Virpil (VPC) MongoosT-50CM2 Stick,
 - Logitech Force 3D Pro Stick,
 - Logitech Extreme 3D Pro Stick,
-- Saitek X52 Stick,
-**TODO** - Saitek X52 Throttle,
-- Saitek X52 Pro Stick,
-- Saitek X52 Pro Throttle,
+- Saitek X52 Stick (read lower Warning),
+**TODO** - Saitek X52 Throttle (read lower Warning),
+- Saitek X52 Pro Stick (read lower Warning),
+- Saitek X52 Pro Throttle (read lower Warning),
 - Saitek X56 Rhino Stick,
 - Saitek X56 Rhino Throttle.
 
@@ -65,6 +65,9 @@ The Bindulator has been checked to work in this software configuration:
        
 ## How to use
 - **TODO** Check the brief tutorial video <a href="LINK DO FILMU YOUTUBE">LINK DO FILMU YOUTUBE</a>,
+
+### Warning for Saitek X52 users
+As far I understand your setup (Stick + Throttle) is always understood by DCS as one, combined controller. Using the Bindulator is possible by choosing your combined HTML **once** file at Controller 1 **only**. Select appropiate X52 Stick template for Stick bind visualization and then follow the other Bindulator steps. Then select appropiate X52 Throttle template for Throttle bind visualization and once again followe the other Bindulator steps.
 
 OR:
 
