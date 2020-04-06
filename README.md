@@ -115,7 +115,4 @@ v0.3 - initial version of the Bindulator that was made public.
 <BR>
      
 ## Credits
-Please let me know if you would like to appear here (and why :) ):
-- Person 1,
-- Person 2,
-- Person n.
+Please let me know if you would like to appear here (and why <img src="https://avatars2.githubusercontent.com/u/4934139?s=400&v=4">).
