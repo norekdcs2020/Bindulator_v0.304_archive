@@ -36,11 +36,12 @@ The Bindulator has been checked to work in this software configuration:
 - DUAL Templates (two controllers on one page) will not be readable in VR (too much stuff going on),
 - Remember it's just an amateur MS Excel file - please be patient and restart if necessary.
 
-### ORANGE and YELLOW worksheets:
-**TODO YELLOW** - Marking in red not supported multiple functions per button binds,
-**TODO** - Marking in violet not supported multiple buttons per function binds,
+### YELLOW worksheets:
+- Marking in red not supported multiple functions per button binds,
+- Marking in violet not supported multiple buttons per function binds,
 
 ### ORANGE worksheet:
+- Marking in red not supported multiple functions per button binds,
 - (Advanced) After initialisation you can edit the names of functions before the PDF creation to suit your needs.
 
 ### Support for controllers + created templates:
