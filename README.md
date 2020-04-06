@@ -54,10 +54,10 @@ The Bindulator has been checked to work in this software configuration:
 - Virpil (VPC) MongoosT-50CM2 Stick,
 - Logitech Force 3D Pro Stick,
 - Logitech Extreme 3D Pro Stick,
-- Saitek X52 Stick (read lower Warning),
-**TODO** - Saitek X52 Throttle (read lower Warning),
-- Saitek X52 Pro Stick (read lower Warning),
-- Saitek X52 Pro Throttle (read lower Warning),
+- Saitek X52 Stick (**read lower Warning**),
+**TODO** - Saitek X52 Throttle (**read lower Warning**),
+- Saitek X52 Pro Stick (**read lower Warning**),
+- Saitek X52 Pro Throttle (**read lower Warning**),
 - Saitek X56 Rhino Stick,
 - Saitek X56 Rhino Throttle.
 
