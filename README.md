@@ -104,3 +104,9 @@ v0.3 - initial version of the Bindulator that was made public.
 3) Often the initialisation process takes some time (~30 s), maybe too much but hey - it works,
 4) There is a chance that you will experience different axis naming - please let me know if you do not have feedback for Z axis (because on my computer it might be RZ axis),
 5) There might me a problem with different Excel language than Polish - due to obligatory using ";" instead of "," in formulas. Please let me know how it turns out...
+
+## Credits
+Please let me know if you would like to appear here and why.
+- Person 1,
+- Person 2,
+- Person n.
