@@ -115,4 +115,4 @@ v0.3 - initial version of the Bindulator that was made public.
 <BR>
      
 ## Credits
-Please let me know if you would like to appear here (and why <img src="https://avatars2.githubusercontent.com/u/4934139" width="200" height="400" />).
+Please let me know if you would like to appear here (and why <img src="https://avatars2.githubusercontent.com/u/4934139" width="50" height="50" />).
