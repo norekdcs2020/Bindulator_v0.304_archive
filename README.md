@@ -66,8 +66,8 @@ As far I understand your setup (Stick + Throttle) is always understood by DCS as
 
 <BR>
        
-## How to use
-- Check the brief *tutorial video* <a href="https://www.youtube.com/watch?v=OwfaliH3OC8">https://www.youtube.com/watch?v=OwfaliH3OC8</a>,
+# How to use
+- Check the brief **tutorial video** <a href="https://www.youtube.com/watch?v=OwfaliH3OC8">https://www.youtube.com/watch?v=OwfaliH3OC8</a>,
 
 OR:
 
