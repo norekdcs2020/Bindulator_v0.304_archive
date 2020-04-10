@@ -55,7 +55,7 @@ The Bindulator has been checked to work in this software configuration:
 - Logitech Force 3D Pro Stick,
 - Logitech Extreme 3D Pro Stick,
 - Saitek X52 Stick (**read lower Warning**),
-**TODO** - Saitek X52 Throttle (**read lower Warning**),
+- Saitek X52 Throttle (**read lower Warning**),
 - Saitek X52 Pro Stick (**read lower Warning**),
 - Saitek X52 Pro Throttle (**read lower Warning**),
 - Saitek X56 Rhino Stick,
@@ -67,7 +67,7 @@ As far I understand your setup (Stick + Throttle) is always understood by DCS as
 <BR>
        
 ## How to use
-- Check the brief tutorial video <a href="https://www.youtube.com/watch?v=OwfaliH3OC8">https://www.youtube.com/watch?v=OwfaliH3OC8</a>,
+- Check the brief *tutorial video* <a href="https://www.youtube.com/watch?v=OwfaliH3OC8">https://www.youtube.com/watch?v=OwfaliH3OC8</a>,
 
 OR:
 
@@ -109,10 +109,19 @@ v0.3 - initial version of the Bindulator that was made public.
 1) Only one color available (other than black) while using button modifiers - cannot change font colour in PDF-Xchange Editor by keyboard shortcut,
 2) Sometimes Excel loses focus after the Bindulator initialisation or bind visualization (the icon of background task does not appear) - you just need to press the mouse on the open Excel file,
 3) Often the initialisation process takes some time (~30 s), maybe too much but hey - it works (and you do not need to use it every day). I believe that the cause is multiple PowerQuery queries for showing binding errors of multiple functions per button and multiple buttons per function,
-4) There is a chance that you will experience different axis naming - please let me know if you do not have feedback for Z axis (because on my computer it might be RZ axis),
+4) There is a chance that you will experience different axis and button naming on your controllers - please let me know if it happens. If you are using hardware producer's software, try to change the assigned axis and buttons to fit the template ones,
 5) There might me a problem with different Excel language than Polish - due to obligatory using ";" instead of "," in formulas. Please let me know how it turns out...
 
 <BR>
      
 ## Credits
-Please let me know if you would like to appear here (and why <img src="https://avatars2.githubusercontent.com/u/4934139" width="20" height="20" />).
+- nielu,
+- PanDziad,
+- mikkeboss,
+- specol,
+- Aden,
+- 3Mydlo3,
+- Varios,
+- Madin,
+- veteran29,
+and please let me know if you would like to appear here (and why <img src="https://avatars2.githubusercontent.com/u/4934139" width="20" height="20" />).
