@@ -218,9 +218,7 @@ Select Case Z_TypKontroler2
     
 End Select
 
-Application.SendKeys ("%u"), True
-Application.SendKeys ("%s"), True
-Application.SendKeys ("%w"), True
+ActiveWorkbook.RefreshAll
 
 End Sub
 
