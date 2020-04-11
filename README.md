@@ -125,5 +125,7 @@ v0.3 - initial version of the Bindulator that was made public.
 - Varios,
 - Madin,
 - [veteran29](https://github.com/veteran29),
+- [DCS_Forces](https://discord.gg/3FFdNEg),
+- [ArmaForces](https://armaforces.com/).
 
 and please let me know if you would like to appear here (and why <img src="https://avatars2.githubusercontent.com/u/4934139" width="20" height="20" />).
