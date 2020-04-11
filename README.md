@@ -115,6 +115,7 @@ v0.3 - initial version of the Bindulator that was made public.
 <BR>
      
 ## Credits
+- Woytek,
 - nielu,
 - PanDziad,
 - mikkeboss,
