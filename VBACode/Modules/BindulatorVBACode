@@ -272,7 +272,7 @@ Application.SendKeys "~", True
 Sleep Z_Czas_czekania
 Application.SendKeys "{Backspace}", True
 Sleep Z_Czas_czekania
-'Application.SendKeys ("^b"), True 'Boldowanie
+Application.SendKeys ("^b"), True 'Boldowanie
 Sleep Z_Czas_czekania
 Application.SendKeys Z_Funkcja_przycisku, True
 Sleep Z_Czas_czekania
@@ -291,7 +291,7 @@ Application.SendKeys "~", True
 Sleep Z_Czas_czekania
 Application.SendKeys "{Backspace}", True
 Sleep Z_Czas_czekania
-'Application.SendKeys ("^b"), True 'Boldowanie
+Application.SendKeys ("^b"), True 'Boldowanie
 Sleep Z_Czas_czekania
 Application.SendKeys Z_Funkcja_przycisku, True
 Sleep Z_Czas_czekania
