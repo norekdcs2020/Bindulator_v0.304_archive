@@ -106,7 +106,7 @@ OR:
        
 ## Changelog
 v0.301 - added ED Forum thread link,
-v0.3 - initial version of the Bindulator that was made public.
+v0.300 - initial version of the Bindulator that was made public.
 
 <BR>
        
