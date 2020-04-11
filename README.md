@@ -15,7 +15,7 @@ All rights to the Bindulator are reserved by 'norekdcs2020' (GPLv2). I do not co
 - Github, 
 - Email: norekdcs2020@gmail.com,
 - ED forum thread: <a href="https://forums.eagle.ru/showthread.php?p=4282144">https://forums.eagle.ru/showthread.php?p=4282144</a>,
-- Hoggit: <a href="https://www.reddit.com/r/hoggit/comments/fz6n55/bindulator_tool_for_dcs_world_bind_visualization/">https://www.reddit.com/r/hoggit/comments/fz6n55/bindulator_tool_for_dcs_world_bind_visualization/</a>,
+- Hoggit: <a href="https://www.reddit.com/r/hoggit/comments/fz6n55/bindulator_tool_for_dcs_world_bind_visualization/">https://www.reddit.com/r/hoggit/comments/fz6n55/bindulator_tool_for_dcs_world_bind_visualization/</a>.
 
 Also, taking my friends' suggestions' into consideration, here is a link if you would like to support my work: 
 [![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=CEDY6G4KT5Y9E)
