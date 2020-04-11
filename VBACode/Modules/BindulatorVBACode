@@ -1,3 +1,4 @@
+
 #If VBA7 Then ' Excel 2010 or later
      Public Declare PtrSafe Sub Sleep Lib "kernel32" (ByVal Milliseconds As LongPtr)
 #Else ' Excel 2007 or earlier
@@ -8,13 +9,16 @@
 Sub HTML_Plik_bindow_Kontroler_1()
 
 Dim Z_Plik_bindow_kontroler1 As FileDialog
-Dim S_temp As String
+Dim S_temp, S_Path As String
 
 Set Z_Plik_bindow_kontroler1 = Application.FileDialog(msoFileDialogFilePicker)
 With Z_Plik_bindow_kontroler1
+    S_Path = (Environ("USERPROFILE") & "/Saved Games/")
+    .InitialFileName = S_Path
     .Title = "Wybierz plik bindów HTML Kontrolera 1 wyeksportowanego przez DCS, Choose HTML bind file for Controller 1 exported via DCS"
     .Filters.Clear
     .Filters.Add "Tylko pliki HTML, Only HTML files", "*.html", 1
+    Application.SendKeys "{BACKSPACE}", True
     S_temp = .Show
     If S_temp = -1 Then Arkusz5.Range("F9").Value = .SelectedItems(1)
     If S_temp <> -1 Then Arkusz5.Range("F9").Value = ""
@@ -25,13 +29,16 @@ End Sub
 Sub HTML_Plik_bindow_Kontroler_2()
 
 Dim Z_Plik_bindow_kontroler2 As FileDialog
-Dim S_temp As String
+Dim S_temp, S_Path As String
 
 Set Z_Plik_bindow_kontroler2 = Application.FileDialog(msoFileDialogFilePicker)
 With Z_Plik_bindow_kontroler2
+    S_Path = (Environ("USERPROFILE") & "/Saved Games/")
+    .InitialFileName = S_Path
     .Title = "Wybierz plik bindów HTML Kontrolera 1 wyeksportowanego przez DCS, Choose HTML bind file for Controller 1 exported via DCS"
     .Filters.Clear
     .Filters.Add "Tylko pliki HTML, Only HTML files", "*.html", 1
+    Application.SendKeys "{BACKSPACE}", True
     S_temp = .Show
     If S_temp = -1 Then Arkusz5.Range("F12").Value = .SelectedItems(1)
     If S_temp <> -1 Then Arkusz5.Range("F12").Value = ""
@@ -42,13 +49,16 @@ End Sub
 Sub PDF_Plik_szablonu()
 
 Dim Z_Plik_szablonu As FileDialog
-Dim S_temp As String
+Dim S_temp, S_Path As String
 
 Set Z_Plik_szablonu = Application.FileDialog(msoFileDialogFilePicker)
 With Z_Plik_szablonu
+    S_Path = (Environ("USERPROFILE") & "/Saved Games/")
+    .InitialFileName = S_Path
     .Title = "Wybierz szablon PDF, Choose PDF template"
     .Filters.Clear
     .Filters.Add "Tylko pliki PDF, Only PDF files", "*.pdf", 1
+    Application.SendKeys "{BACKSPACE}", True
     S_temp = .Show
     If S_temp = -1 Then Arkusz5.Range("F18").Value = .SelectedItems(1)
     If S_temp <> -1 Then Arkusz5.Range("F18").Value = ""
@@ -58,11 +68,14 @@ End Sub
 
 Sub PDF_Folder_zapisu()
 Dim Z_Folder_zapisu As FileDialog
-Dim S_temp As String
+Dim S_temp, S_Path As String
 
 Set Z_Folder_zapisu = Application.FileDialog(msoFileDialogFolderPicker)
 With Z_Folder_zapisu
+    S_Path = (Environ("USERPROFILE") & "/Saved Games/")
+    .InitialFileName = S_Path
     .Title = "Wybierz folder do zapisu wizualizacji bindów, Choose folder for saving bind visualization"
+    Application.SendKeys "{BACKSPACE}", True
     S_temp = .Show
     If S_temp = -1 Then Arkusz5.Range("F21").Value = .SelectedItems(1)
     If S_temp <> -1 Then Arkusz5.Range("F21").Value = ""
@@ -72,13 +85,16 @@ End Sub
 
 Sub PDF_Plik_exe_edytora()
 Dim Z_Plik_exe_edytora As FileDialog
-Dim S_temp As String
+Dim S_temp, S_Path As String
 
 Set Z_Plik_exe_edytora = Application.FileDialog(msoFileDialogFilePicker)
 With Z_Plik_exe_edytora
+    S_Path = (Environ("USERPROFILE") & "/Saved Games/")
+    .InitialFileName = S_Path
     .Title = "Wybierz lokalizację pliku .exe Twojego edytora PDF, Choose .exe file of your PDF editor"
     .Filters.Clear
     .Filters.Add "Tylko pliki EXE, Only EXE files", "*.exe", 1
+    Application.SendKeys "{BACKSPACE}", True
     S_temp = .Show
     If S_temp = -1 Then Arkusz5.Range("F24").Value = .SelectedItems(1)
     If S_temp <> -1 Then Arkusz5.Range("F24").Value = ""
@@ -88,13 +104,16 @@ End Sub
 
 Sub PDF_Plik_do_kneeboarda()
 Dim Z_Plik_do_kneeboarda As FileDialog
-Dim S_temp As String
+Dim S_temp, S_Path As String
 
 Set Z_Plik_do_kneeboarda = Application.FileDialog(msoFileDialogFilePicker)
 With Z_Plik_do_kneeboarda
+    S_Path = (Environ("USERPROFILE") & "/Saved Games/")
+    .InitialFileName = S_Path
     .Title = "Wybierz gotową wizualizację bindów w formacie PDF, Choose finished bind visualization in PDF"
     .Filters.Clear
     .Filters.Add "Tylko pliki PDF, Only PDF files", "*.pdf", 1
+    Application.SendKeys "{BACKSPACE}", True
     S_temp = .Show
     If S_temp = -1 Then Arkusz5.Range("F34").Value = .SelectedItems(1)
     If S_temp <> -1 Then Arkusz5.Range("F34").Value = ""
@@ -104,11 +123,14 @@ End Sub
 
 Sub PDF_Folder_do_kneeboarda()
 Dim Z_Folder_do_kneeboarda As FileDialog
-Dim S_temp As String
+Dim S_temp, S_Path As String
 
 Set Z_Folder_do_kneeboarda = Application.FileDialog(msoFileDialogFolderPicker)
 With Z_Folder_do_kneeboarda
+    S_Path = (Environ("USERPROFILE") & "/Saved Games/")
+    .InitialFileName = S_Path
     .Title = "Wybierz folder do zapisu Kneeboardów, Choose folder for saving Kneeboards"
+    Application.SendKeys "{BACKSPACE}", True
     S_temp = .Show
     If S_temp = -1 Then Arkusz5.Range("F37").Value = .SelectedItems(1)
     If S_temp <> -1 Then Arkusz5.Range("F37").Value = ""
@@ -601,5 +623,26 @@ AppActivate Application.Caption
 
 MsgBox "Export do Kneeborda zakończył się." & Chr(10) & "Export to Kneeboard has ended."
 Arkusz5.Range("J39").Value = "ZREALIZOWANY" & Chr(10) & "FINISHED"
+
+End Sub
+
+
+Sub LoopThroughAllTablesinWorkbook()
+
+'PURPOSE: Loop through and apply a change to all Tables in the Excel Workbook
+'SOURCE: www.TheSpreadsheetGuru.com/the-code-vault
+
+Dim tbl As ListObject
+Dim sht As Worksheet
+
+'Loop through each sheet and table in the workbook
+  For Each sht In ThisWorkbook.Worksheets
+    For Each tbl In sht.ListObjects
+      
+      'Do something to all the tables...
+        tbl.ShowTotals = True
+        
+    Next tbl
+  Next sht
 
 End Sub
