@@ -105,6 +105,7 @@ OR:
 <BR>
        
 ## Changelog
+- v0.302 - bold font fix,
 - v0.301 - added ED Forum thread link,
 - v0.300 - initial version of the Bindulator that was made public.
 
