@@ -11,7 +11,11 @@ Bindulator is a MS Excel based tool for Digital Combat Simulator (DCS) keybind v
 
 After countless binding, rebinding and unbinding binds in DCS World (+formats +uninstalls +DCS bind bugs) I lost track what function on which airplane is bound on which button of my controllers. Unfortunately I have never found any tool for DCS World bind visualization (nor PDF nor kneeboard) so I made one for myself and my friends. Supposing it could also make some of the DCS World community happier, I have decided to make it public. I am not a professional programmer so please bear that in mind and use the Bindulator at your own risk. If my effort inspire you to make a better, standalone program that does not need DCS HTML exports, MS Excel, PDF editor - I am already a fan of your work!
 
-All rights to the Bindulator are reserved by 'norekdcs2020' (GPLv2). I do not consent to any paid or commercial use of the Bindulator. Contact me via Github, norekdcs2020@gmail.com or the ED forum thread: <a href="https://forums.eagle.ru/showthread.php?p=4282144">https://forums.eagle.ru/showthread.php?p=4282144</a>.
+All rights to the Bindulator are reserved by 'norekdcs2020' (GPLv2). I do not consent to any paid or commercial use of the Bindulator. Contact me via: 
+- Github, 
+- Email: norekdcs2020@gmail.com 
+- ED forum thread: <a href="https://forums.eagle.ru/showthread.php?p=4282144">https://forums.eagle.ru/showthread.php?p=4282144</a>,
+- Hoggit: <a href="https://www.reddit.com/r/hoggit/comments/fz6n55/bindulator_tool_for_dcs_world_bind_visualization/">https://www.reddit.com/r/hoggit/comments/fz6n55/bindulator_tool_for_dcs_world_bind_visualization/</a>,
 
 Also, taking my friends' suggestions' into consideration, here is a link if you would like to support my work: 
 [![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=CEDY6G4KT5Y9E)
@@ -101,7 +105,7 @@ OR:
 <BR>
        
 ## Changelog
-v0.301 - added ED Forum link,
+v0.301 - added ED Forum thread link,
 v0.3 - initial version of the Bindulator that was made public.
 
 <BR>
