@@ -13,7 +13,7 @@ After countless binding, rebinding and unbinding binds in DCS World (+formats +u
 
 All rights to the Bindulator are reserved by 'norekdcs2020' (GPLv2). I do not consent to any paid or commercial use of the Bindulator. Contact me via: 
 - Github, 
-- Email: norekdcs2020@gmail.com 
+- Email: norekdcs2020@gmail.com,
 - ED forum thread: <a href="https://forums.eagle.ru/showthread.php?p=4282144">https://forums.eagle.ru/showthread.php?p=4282144</a>,
 - Hoggit: <a href="https://www.reddit.com/r/hoggit/comments/fz6n55/bindulator_tool_for_dcs_world_bind_visualization/">https://www.reddit.com/r/hoggit/comments/fz6n55/bindulator_tool_for_dcs_world_bind_visualization/</a>,
 
