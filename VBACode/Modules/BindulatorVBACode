@@ -625,24 +625,3 @@ MsgBox "Export do Kneeborda zakończył się." & Chr(10) & "Export to Kneeboard 
 Arkusz5.Range("J39").Value = "ZREALIZOWANY" & Chr(10) & "FINISHED"
 
 End Sub
-
-
-Sub LoopThroughAllTablesinWorkbook()
-
-'PURPOSE: Loop through and apply a change to all Tables in the Excel Workbook
-'SOURCE: www.TheSpreadsheetGuru.com/the-code-vault
-
-Dim tbl As ListObject
-Dim sht As Worksheet
-
-'Loop through each sheet and table in the workbook
-  For Each sht In ThisWorkbook.Worksheets
-    For Each tbl In sht.ListObjects
-      
-      'Do something to all the tables...
-        tbl.ShowTotals = True
-        
-    Next tbl
-  Next sht
-
-End Sub
