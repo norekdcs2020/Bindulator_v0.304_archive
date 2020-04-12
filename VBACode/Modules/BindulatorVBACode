@@ -250,7 +250,7 @@ Sub PDF_Stworz_wizualizacje_bindow()
 Dim Z_Funkcja_przycisku, Z_Nazwa_statku As String
 Dim Z_Przycisk_aktualny, Z_Liczba_przyciskow_kontroler1, Z_Liczba_przyciskow_kontroler2 As Long
 Dim Z_Czas_czekania As Double
-Z_Czas_czekania = 20
+Z_Czas_czekania = 50
 
 Z_Nazwa_statku = Arkusz5.Range("N6").Value
 
