@@ -71,7 +71,8 @@ As far as I know your setup (Stick + Throttle) is always understood by DCS as on
 
 ### Todo
 - VKB Gunfighter,
-- Thrustmaster MFDs.
+- Thrustmaster MFDs,
+- T-50 CM throttle.
 
 <BR>
        
