@@ -66,7 +66,7 @@ The Bindulator has only been tested and confirmed to work in this software confi
 - Saitek X56 Rhino Throttle.
 
 ### Warning for Saitek X52 users
-As far I understand your setup (Stick + Throttle) is always understood by DCS as one, combined controller. Using the Bindulator is possible by choosing your combined HTML **once** file at Controller 1 **only**. Then select appropiate X52 Stick template for Stick bind visualization and follow the other Bindulator steps. After that select appropiate X52 Throttle template for Throttle bind visualization and once again follow the other Bindulator steps.
+As far as I know your setup (Stick + Throttle) is always understood by DCS as one, combined controller. Using the Bindulator is possible by choosing your combined HTML **once** file at Controller 1 **only**. Then select appropiate X52 Stick template for Stick bind visualization and follow the other Bindulator steps. After that select appropiate X52 Throttle template for Throttle bind visualization and once again follow the other Bindulator steps.
 
 <BR>
        
