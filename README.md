@@ -13,10 +13,11 @@ After countless binding, rebinding and unbinding binds in DCS World (+formats +u
 
 All rights to the Bindulator are reserved by 'norekdcs2020' (GPLv2). I do not consent to any paid or commercial use of the Bindulator. Contact me via: 
 - Github, 
-- Email: norekdcs2020@gmail.com 
+- Email: norekdcs2020@gmail.com,
 - ED forum thread: <a href="https://forums.eagle.ru/showthread.php?p=4282144">https://forums.eagle.ru/showthread.php?p=4282144</a>,
-- Hoggit: <a href="https://www.reddit.com/r/hoggit/comments/fz6n55/bindulator_tool_for_dcs_world_bind_visualization/">https://www.reddit.com/r/hoggit/comments/fz6n55/bindulator_tool_for_dcs_world_bind_visualization/</a>,
+- Hoggit: <a href="https://www.reddit.com/r/hoggit/comments/fz6n55/bindulator_tool_for_dcs_world_bind_visualization/">https://www.reddit.com/r/hoggit/comments/fz6n55/bindulator_tool_for_dcs_world_bind_visualization/</a>.
 
+### Donate
 Also, taking my friends' suggestions' into consideration, here is a link if you would like to support my work: 
 [![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=CEDY6G4KT5Y9E)
 
@@ -66,7 +67,12 @@ The Bindulator has only been tested and confirmed to work in this software confi
 - Saitek X56 Rhino Throttle.
 
 ### Warning for Saitek X52 users
-As far I understand your setup (Stick + Throttle) is always understood by DCS as one, combined controller. Using the Bindulator is possible by choosing your combined HTML **once** file at Controller 1 **only**. Then select appropiate X52 Stick template for Stick bind visualization and follow the other Bindulator steps. After that select appropiate X52 Throttle template for Throttle bind visualization and once again follow the other Bindulator steps.
+As far as I know your setup (Stick + Throttle) is always understood by DCS as one, combined controller. Using the Bindulator is possible by choosing your combined HTML **once** file at Controller 1 **only**. Then select appropiate X52 Stick template for Stick bind visualization and follow the other Bindulator steps. After that select appropiate X52 Throttle template for Throttle bind visualization and once again follow the other Bindulator steps.
+
+### Todo
+- VKB Gunfighter,
+- Thrustmaster MFDs,
+- T-50 CM throttle.
 
 <BR>
        
@@ -105,8 +111,10 @@ OR:
 <BR>
        
 ## Changelog
-v0.301 - added ED Forum thread link,
-v0.300 - initial version of the Bindulator that was made public.
+- v0.303 (in progress) - wait delay unification, minor fixes,
+- v0.302 - bold font fix,
+- v0.301 - added ED Forum thread link,
+- v0.300 - initial version of the Bindulator that was made public.
 
 <BR>
        
