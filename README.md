@@ -34,7 +34,7 @@ The Bindulator has only been tested and confirmed to work in this software confi
        
 ## Features & limitations
 ### Whole workbook:
-- Visualize any DCS World airplane binds - on PDF and on kneeboard (VR tested!),
+- Visualize any DCS World aircraft binds - on PDF and on kneeboard (VR tested!),
 - Support to visualize binds of up to two Controllers per a Template,
 - The Bindulator relies on DCS World HTML exports because it was easier for me to make the tool work,
 - Binding only one function to a button is accepted + modifier 1 + modifier 2 (no support for more modifiers, sorry!),
@@ -56,6 +56,8 @@ The Bindulator has only been tested and confirmed to work in this software confi
 - Thrustmaster T.16000M Stick,
 - Thrustmaster T.16000M FCS Stick,
 - Thrustmaster TWCS Throttle,
+- Thrustmaster Cougar MFD (Left),
+- Thrustmaster Cougar MFD (Right),
 - Virpil (VPC) MongoosT-50CM2 Stick,
 - Logitech Force 3D Pro Stick,
 - Logitech Extreme 3D Pro Stick,
@@ -67,12 +69,11 @@ The Bindulator has only been tested and confirmed to work in this software confi
 - Saitek X56 Rhino Throttle.
 
 ### Warning for Saitek X52 users
-As far as I know your setup (Stick + Throttle) is always understood by DCS as one, combined controller. Using the Bindulator is possible by choosing your combined HTML **once** file at Controller 1 **only**. Then select appropiate X52 Stick template for Stick bind visualization and follow the other Bindulator steps. After that select appropiate X52 Throttle template for Throttle bind visualization and once again follow the other Bindulator steps.
+As far as I know your setup (Stick + Throttle) is always understood by DCS as one, combined controller. Using the Bindulator is possible by choosing your combined HTML file **once** at Controller 1 **only**. Then select appropiate X52 Stick template for Stick bind visualization and follow the other Bindulator steps. After that select appropiate X52 Throttle template for Throttle bind visualization and once again follow the other Bindulator steps.
 
 ### Todo
 - VKB Gunfighter,
-- Thrustmaster MFDs,
-- T-50 CM throttle.
+- VPC T-50 CM throttle.
 
 <BR>
        
@@ -82,9 +83,9 @@ As far as I know your setup (Stick + Throttle) is always understood by DCS as on
 OR:
 
 ### PDF bind visualization creation
-- Export DCS airplane binds via the "HTML Export" (fortunately, at the moment, it is one click per airplane),
+- Export DCS aircraft binds via the "HTML Export" (fortunately, at the moment, it is one click per aircraft),
 - Open Bindulator. The **GREEN** worksheet should appear,
-- Choose your controller setup and airplane type via drop down lists at No. 1,
+- Choose your controller setup and aircraft type via drop down lists at No. 1,
 - Choose the exported DCS HTML files for controller 1 and controller 2 (if you need a controller 2 on the same Template) at. No. 2 and No. 3 with according buttons. The paths to the HTML files will appear in the `F` column,
 - Press the **Initialise data** button at No. 4 and wait for data refresh start and end prompts. If a `DUPLICATES PRESENT` text appears next to No. 4 button, correct your binds,
 - Now you have imported your data to the **YELLOW** (raw import data) and **ORANGE** (processed import data) worksheets. If you don't like the DCS function names present in **ORANGE** worksheet, this is the time to change them at `Funkcja` field (the `Kategoria funkcji` is only a helper column),
@@ -111,6 +112,7 @@ OR:
 <BR>
        
 ## Changelog
+- v0.304 - added support for Thrustmaster MFD Cougar (mirrored Left and Right versions) + added adequate Templates,
 - v0.303 - wait delay unification, minor fixes,
 - v0.302 - bold font fix,
 - v0.301 - added ED Forum thread link,
